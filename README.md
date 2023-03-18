@@ -1,4 +1,4 @@
-# Leadtracker_Extension
+# Leadtracker Extension
 
 This is a Chrome Extension I created while learning Javascript.
 It can store current active tab and any other tab you input. Data is stored in local storage so that it is not deleted while refreshing.
